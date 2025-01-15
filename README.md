@@ -1,5 +1,6 @@
 # Why?  
-This project was created to study how to ecrypt ML models and create python aplication so it could be safe for a company to send some kind of demos to clients to check the solution
+This project was created to study how to encrypt ML models and create python executable file, so it could be safe for a company to send some kind of demos to clients to check the solution.  
+The secret key and encrypted model are added to this repo for educational purpose only
 # Use Python 3.12
 - pip install numpy scikit-learn joblib nuitka cryptography
 # Execution steps in cli
